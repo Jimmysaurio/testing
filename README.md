@@ -1,7 +1,7 @@
 # testing
 Repo for testing misc stuff...
 
-* [Hola](hola.html)
+* [Mi 3D](Mi3D.html)
 * [Simple VR](simplevr.html)
 * [HOLITA](Holita.html)
-* [3D Personalizado](3D.html)
+
